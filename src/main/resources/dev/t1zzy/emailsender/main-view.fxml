@@ -40,7 +40,7 @@
         </Label>
     </HBox>
     <Label fx:id="passwordLabel" opacity="0.0" text="jnco rkuo mwiz gurw" GridPane.rowIndex="4"/>
-    <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="40.0" prefWidth="478.0" text="EmailSender | Beta">
+    <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="40.0" prefWidth="478.0" text="EmailSender Beta">
         <textFill>
             <LinearGradient>
                 <stops>

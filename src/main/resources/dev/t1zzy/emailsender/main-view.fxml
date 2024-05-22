@@ -18,7 +18,7 @@
                GridPane.rowIndex="1"/>
     <TextField fx:id="subjectField" promptText="Тема"
                style="-fx-background-color: #353535; -fx-text-inner-color: #fff;" GridPane.rowIndex="2"/>
-    <TextArea fx:id="bodyField" promptText="Сообщение письма"
+    <TextArea fx:id="bodyField" promptText="Текст письма"
               style="-fx-control-inner-background: #353535; -fx-text-fill: #fff; -fx-prompt-text-fill: #cccc;"
               GridPane.rowIndex="7"/>
     <HBox GridPane.rowIndex="8">
